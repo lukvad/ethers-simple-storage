@@ -1,3 +1,3 @@
 # Ethers Simple Storage FCC
 
-Hi
+Ethereum contract with uage of ethers library and harthat
